@@ -10,5 +10,5 @@
 - FIREBASE_API_ID=
 - FIREBASE_MEASUREMENT_ID=
 
-
+## For all the components, the structure is : a folder with a jsx file and a css file
 
